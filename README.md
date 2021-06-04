@@ -1,0 +1,1 @@
+https://levelup.gitconnected.com/creating-a-basic-rails-crud-app-8720a53f0158
